@@ -68,6 +68,11 @@
                     "path": "../../monochrome"
                 },
                 {
+                    "type": "file",
+                    "path": "../../flathub/monochrome/main.js",
+                    "dest-filename": "main.js"
+                },
+                {
                     "type": "script",
                     "dest-filename": "monochrome-wrapper",
                     "commands": [
