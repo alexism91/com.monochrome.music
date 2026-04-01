@@ -1,0 +1,4 @@
+[submodule "monochrome"]
+	path = monochrome
+	url = https://github.com/monochrome-music/monochrome.git
+	branch = main

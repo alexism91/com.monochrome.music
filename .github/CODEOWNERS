@@ -1,0 +1,17 @@
+# GitHub Code Owners
+# Defines who should review pull requests for specific files
+
+# Par défaut, tous les fichiers sont sous la responsabilité du propriétaire du repo
+* @OWNER
+
+# Fichiers de packaging Flatpak
+flathub/com.monochrome.music.json @OWNER
+flatpak/ @OWNER
+
+# Documentation
+README.md @OWNER
+CONTRIBUTING.md @OWNER
+Rapport-Correction/ @OWNER
+
+# Le sous-module monochrome a ses propres maintainers
+monochrome/ @monochrome-music

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Monochrome
+Comment=An open-source, privacy-respecting, ad-free music app
+Exec=monochrome %u
+Icon=com.monochrome.music
+Type=Application
+Categories=Audio;Music;Player;AudioVideo;
+Keywords=music;streaming;player;audio;
+StartupNotify=true
+StartupWMClass=monochrome
+MimeType=x-scheme-handler/http;x-scheme-handler/https;
